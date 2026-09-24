@@ -24,3 +24,4 @@ scikit-learn==1.7.0
 scipy==1.15.3
 boto3==1.38.32
 optuna==4.9.0
+streamlit
